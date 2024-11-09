@@ -31,7 +31,7 @@
     "cache/": "https://deno.land/x/cache@0.2.12/",
     "cliffy/": "https://deno.land/x/cliffy@v1.0.0-rc.3/",
     "deno_dom/": "https://deno.land/x/deno_dom@v0.1.41/",
-    "xmlp/": "https://deno.land/x/xmlp@v0.2.8/",
+    "xmlp/": "https://deno.land/x/xmlp@v0.3.0/",
     "xml/": "https://deno.land/x/xml@2.1.1/",
     "another_cookiejar/": "https://deno.land/x/another_cookiejar@v5.0.3/",
     "semver/": "https://deno.land/x/semver@v1.4.0/",
